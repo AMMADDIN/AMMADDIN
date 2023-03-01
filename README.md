@@ -5,13 +5,13 @@
 
 <h1 align="center">Hello People 👋</h1>
 
-<p>I am Frontend developer with creative mastermind behind the beautiful and intuitive user interfaces that we interact with every day. You can call me the wizards of the web, using my expertise in HTML, CSS, and JavaScript to bring websites and applications to life. Whether it's designing stunning visuals, crafting smooth animations, or optimizing the user experience, frontend developers are the driving force behind some of the most exciting and innovative technologies of our time. With unique blend of technical skills and artistic flair, I have the power to captivate audiences and create unforgettable digital experiences.</p>
+<p>I am Frontend developer with creative mastermind behind the beautiful and intuitive user interfaces that we interact with every day. You can call me the wizards of the web, using my expertise in HTML, CSS, and JavaScript to bring websites and applications to life. Whether it's designing stunning visuals, crafting smooth animations, or optimizing the user experience, frontend developers are the driving force behind some of the most exciting and innovative technologies of our time. </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 # Let's Connect
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/mustafa-kashif-45b639216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="35" width="45" /></a><a href="https://instagram.com/mustafakashif_18?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__rafay_khan" height="35" width="45" /></a><a href="https://www.facebook.com/profile.php?id=100010327087020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="35" width="45" /></a></p>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/ammad-ud-din-muhammad-front-end-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="35" width="45" /></a><a href="https://instagram.com/binqasimproductions?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__rafay_khan" height="35" width="45" /></a><a href="https://www.facebook.com/ammad.din.007?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="35" width="45" /></a></p>
 
 
 ## Programming Language
@@ -53,10 +53,8 @@
 
 
 <h2>Github Streak:</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamemustufa&" alt="ghulamemustufa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammaddin&" alt="ammaddin" /></p>
 
-<h2>My Stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghulamemustufa&show_icons=true&locale=en" alt="ghulamemustufa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammaddin&show_icons=true&locale=en" alt="ammaddin" /></p>
 
-<h2>My Contributions:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulamemustufa&show_icons=true&locale=en&layout=compact" alt="ghulamemustufa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaddin&show_icons=true&locale=en&layout=compact" alt="ammaddin" /></p>

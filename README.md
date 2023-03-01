@@ -1,8 +1,13 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXAkMvo2wFHF5SsRAqf5jN8YUUwk7dRzT1qQx1-raKcRQxubW68aprHGdMYGbMrlxqCVkC_ZASueGUZtlHVJU0OI2Ab0cCmGForzhnS2VxfKI4jTrfq6l_cJd44VwU_r4S5uWVRjAW03LaWdfAI6YbrJ_rRcUJqj8ZA_XreYg6iXO17sfZFZK08PaMPA/s16000/Muftafa.png)](https://rishavchanda.io)
+[![MasterHead](Ammad.png)](https://rishavchanda.io)
+
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
+
 
 <h1 align="center">Hello People 👋</h1>
 
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<p>I am Frontend developer with creative mastermind behind the beautiful and intuitive user interfaces that we interact with every day. You can call me the wizards of the web, using my expertise in HTML, CSS, and JavaScript to bring websites and applications to life. Whether it's designing stunning visuals, crafting smooth animations, or optimizing the user experience, frontend developers are the driving force behind some of the most exciting and innovative technologies of our time. With unique blend of technical skills and artistic flair, I have the power to captivate audiences and create unforgettable digital experiences.</p>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 # Let's Connect
 <p align="left">
